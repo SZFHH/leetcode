@@ -13,5 +13,5 @@ class Solution {
             ans += a[i]*(a[i]-1)/2;
         }
         return ans;
-    }.
+    }
 }
